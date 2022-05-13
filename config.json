@@ -1,0 +1,7 @@
+{
+  "endpoint": "https://discord.com/api/v10",
+  "client_id": "974748075748917258",
+  "secret": "",
+  "redirect_URI": "http://127.0.0.1:5000/oauth/discord",
+  "guild_id": ""
+}

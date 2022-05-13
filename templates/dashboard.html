@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Client Dashboard</title>
+</head>
+<body>
+    <ui>
+        {% for guild in guilds %}
+        <li>{{guild["name"]}}</li>
+        {% endfor %}
+    </ui>
+</body>
+</html>
